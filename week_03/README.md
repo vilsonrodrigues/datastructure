@@ -1,0 +1,1 @@
+This week the challenge was to use the Linked List and Stack data structures to solve tasks. The first task was to remove duplicates. The second consisted of joining two linked lists. The third was to check which buildings would see the sun.

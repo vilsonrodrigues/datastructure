@@ -17,3 +17,11 @@ In the first week, two courses was completed in DataQuest.
 This time Introduction to Python for Data Engineering: Part II [(check my certificate)](https://app.dataquest.io/view_cert/JXJBFKPQM0BMFMXGNWJV) was completed.
 
 Another task in the week was apply Object-Oriented Programming in the Soluctions Guided Project. For more details looks [this](https://github.com/vilsonrodrigues/datastructure/tree/main/week_02) directory.
+
+## Week 03 
+
+Resolved tasks about LinkedLists and Stacks
+
+Check my explanation in [loom](https://www.loom.com/share/a56113657e4e4dcc92823122c0dfe86b)
+
+For more details looks [this](https://github.com/vilsonrodrigues/datastructure/tree/main/week_03) directory.
