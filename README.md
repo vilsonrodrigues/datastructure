@@ -25,3 +25,13 @@ Resolved tasks about LinkedLists and Stacks
 Check my explanation in [loom](https://www.loom.com/share/a56113657e4e4dcc92823122c0dfe86b)
 
 For more details looks [this](https://github.com/vilsonrodrigues/datastructure/tree/main/week_03) directory.
+
+
+## Week 04
+
+This week 2 problems about recursion was resolved
+
+
+Check my explanation in [loom](https://www.loom.com/share/596449207bca49918d519dbbf977dc07)
+
+For more details looks [this](https://github.com/vilsonrodrigues/datastructure/tree/main/week_04) directory.
