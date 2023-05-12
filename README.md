@@ -35,3 +35,9 @@ This week 2 problems about recursion was resolved
 Check my explanation in [loom](https://www.loom.com/share/596449207bca49918d519dbbf977dc07)
 
 For more details looks [this](https://github.com/vilsonrodrigues/datastructure/tree/main/week_04) directory.
+
+## Week 08
+
+Problems about Networks was resolved. Concepts as Directed and unDirected Graphs, Weight and unWeighted, density, degree, bipartite networks and more. And also some tasks about NetworkX python framework.
+
+View my notebook about: [here](https://github.com/vilsonrodrigues/datastructure/blob/main/week_08/ed2_w8.ipynb)
